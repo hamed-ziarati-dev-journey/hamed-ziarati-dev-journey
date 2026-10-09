@@ -3,10 +3,6 @@
 <div align="center">
   <img src="assets/banner.png" alt="Midnight academia inspired banner" width="100%" />
 
-  <p>
-    <img src="assets/avatar.png" alt="Illustrated portrait of Hamed Ziarati" width="130" />
-  </p>
-
   <h1>Hamed Ziarati ✦</h1>
   <p><strong>Computer Engineer · Software Engineering</strong></p>
   <p><em>Turning ideas into thoughtful code, with a touch of magic.</em></p>
@@ -81,6 +77,16 @@ I document and share everything I learn here—aiming to elevate my own craft wh
       <img src="https://github-readme-stats.vercel.app/api?username=hamed-ziarati-dev-journey&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=C9A66B&amp;text_color=E6EDF3&amp;icon_color=C9A66B" alt="Hamed Ziarati's GitHub statistics" height="170" />
     </picture>
   </a>
+</div>
+
+### ✍️ Random Dev Quote
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=dark&amp;quoteColor=E6EDF3&amp;authorColor=C9A66B&amp;backgroundColor=172433&amp;symbolColor=C9A66B" />
+    <source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=light&amp;quoteColor=24292F&amp;authorColor=81602D&amp;backgroundColor=FFFFFF&amp;symbolColor=9F793A" />
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=dark&amp;quoteColor=E6EDF3&amp;authorColor=C9A66B&amp;backgroundColor=172433&amp;symbolColor=C9A66B" alt="Random developer quote" width="82%" />
+  </picture>
 </div>
 
 ---

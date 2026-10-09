@@ -1,0 +1,39 @@
+name: Midnight Golden Contribution Snake
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '17 3 * * *'
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/snake.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Checkout profile repository
+        uses: actions/checkout@v4
+
+      - name: Generate golden snake SVGs for dark and light mode
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            assets/github-snake-dark.svg?color_snake=#E2BB77&color_dots=#101A28,#27384B,#5C4B3A,#927148,#C9A66B
+            assets/github-snake.svg?color_snake=#9F793A&color_dots=#F4F1EA,#DDE0E0,#D3C2A8,#B69A75,#81602D
+
+      - name: Commit generated animations
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/github-snake.svg assets/github-snake-dark.svg
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: refresh midnight golden snake"
+            git push
+          fi

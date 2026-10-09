@@ -79,6 +79,18 @@ I document and share everything I learn here—aiming to elevate my own craft wh
   </a>
 </div>
 
+### 🐍 The Midnight Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/github-snake.svg" />
+    <img src="assets/github-snake.svg" alt="Golden snake eating Hamed's GitHub contribution squares" width="100%" />
+  </picture>
+</div>
+
+<!-- Animated contributions are regenerated automatically by .github/workflows/snake.yml. -->
+
 ### ✍️ Random Dev Quote
 
 <div align="center">

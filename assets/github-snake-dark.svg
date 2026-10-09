@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1050" height="164" viewBox="0 0 1050 164" role="img" aria-label="Initializing Midnight Golden Contribution Snake">
+  <title>Midnight Golden Contribution Snake</title>
+  <rect width="1050" height="164" rx="14" fill="#101A28"/>
+  <rect x="15" y="15" width="1020" height="134" rx="10" fill="none" stroke="#A47C47" stroke-width="2" opacity="0.65"/>
+  <text x="48" y="66" fill="#E2BB77" font-family="Georgia,serif" font-size="30" font-weight="bold">The Midnight Snake</text>
+  <text x="48" y="106" fill="#DCE3EA" font-family="Arial,sans-serif" font-size="17">Run the GitHub Action once to animate your real contribution grid.</text>
+  <path d="M820 44 H955 Q976 44 976 66 Q976 88 955 88 H863" fill="none" stroke="#C9A66B" stroke-width="17" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="7 9" opacity=".93">
+    <animate attributeName="stroke-dashoffset" from="0" to="-96" dur="3s" repeatCount="indefinite"/>
+  </path>
+  <circle cx="863" cy="88" r="12" fill="#E2BB77"/>
+  <circle cx="868" cy="83" r="2" fill="#101A28"/>
+</svg>

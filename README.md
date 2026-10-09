@@ -79,7 +79,7 @@ I document and share everything I learn here—aiming to elevate my own craft wh
   </a>
 </div>
 
-### 🐍 The Midnight Snake
+### 🐍 The Commit Hunter
 
 <div align="center">
   <picture>

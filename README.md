@@ -20,17 +20,56 @@
 
 ### About me
 
-I'm Hamed, a **Computer Engineer specializing in Software Engineering**. I enjoy turning ideas into clean, maintainable software and learning something new with every project.
+I'm Hamed, a **Computer Engineer specializing in Software Engineering**.
 
-### My focus
+I am currently studying and improving myself in the areas listed below.  
+I document and share everything I learn here—aiming to elevate my own craft while supporting anyone walking a similar path.
+
+### Tech stack
+
+<!-- Technologies listed in my developer journey; organized to match the Midnight Scholar palette. -->
+
+**Languages & frameworks**
 
 <p>
-  <img src="https://img.shields.io/badge/C%23-172433?style=flat-square&amp;logoColor=C9A66B" alt="C#" />
-  <img src="https://img.shields.io/badge/Software%20Engineering-172433?style=flat-square&amp;logoColor=C9A66B" alt="Software Engineering" />
-  <img src="https://img.shields.io/badge/Clean%20Code-172433?style=flat-square&amp;logoColor=C9A66B" alt="Clean Code" />
+  <img src="https://img.shields.io/badge/C%23-172433?style=flat-square&amp;logo=csharp&amp;logoColor=C9A66B" alt="C#" />
+  <img src="https://img.shields.io/badge/NestJS-172433?style=flat-square&amp;logo=nestjs&amp;logoColor=C9A66B" alt="NestJS" />
+  <img src="https://img.shields.io/badge/Flutter-172433?style=flat-square&amp;logo=flutter&amp;logoColor=C9A66B" alt="Flutter" />
+  <img src="https://img.shields.io/badge/React-172433?style=flat-square&amp;logo=react&amp;logoColor=C9A66B" alt="React" />
+  <img src="https://img.shields.io/badge/Vue.js-172433?style=flat-square&amp;logo=vuedotjs&amp;logoColor=C9A66B" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/Node.js-172433?style=flat-square&amp;logo=nodedotjs&amp;logoColor=C9A66B" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Next.js-172433?style=flat-square&amp;logo=nextdotjs&amp;logoColor=C9A66B" alt="Next.js" />
 </p>
 
-<!-- Add your other confirmed technologies here as you learn and use them. -->
+**Data science & machine learning**
+
+<p>
+  <img src="https://img.shields.io/badge/NumPy-172433?style=flat-square&amp;logo=numpy&amp;logoColor=C9A66B" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-172433?style=flat-square&amp;logo=pandas&amp;logoColor=C9A66B" alt="Pandas" />
+  <img src="https://img.shields.io/badge/SciPy-172433?style=flat-square&amp;logo=scipy&amp;logoColor=C9A66B" alt="SciPy" />
+  <img src="https://img.shields.io/badge/scikit--learn-172433?style=flat-square&amp;logo=scikitlearn&amp;logoColor=C9A66B" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/TensorFlow-172433?style=flat-square&amp;logo=tensorflow&amp;logoColor=C9A66B" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/PyTorch-172433?style=flat-square&amp;logo=pytorch&amp;logoColor=C9A66B" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Keras-172433?style=flat-square&amp;logo=keras&amp;logoColor=C9A66B" alt="Keras" />
+  <img src="https://img.shields.io/badge/Matplotlib-172433?style=flat-square&amp;logoColor=C9A66B" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Plotly-172433?style=flat-square&amp;logo=plotly&amp;logoColor=C9A66B" alt="Plotly" />
+  <img src="https://img.shields.io/badge/MLflow-172433?style=flat-square&amp;logo=mlflow&amp;logoColor=C9A66B" alt="MLflow" />
+</p>
+
+**Databases**
+
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-172433?style=flat-square&amp;logo=postgresql&amp;logoColor=C9A66B" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-172433?style=flat-square&amp;logo=mysql&amp;logoColor=C9A66B" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-172433?style=flat-square&amp;logo=mongodb&amp;logoColor=C9A66B" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Redis-172433?style=flat-square&amp;logo=redis&amp;logoColor=C9A66B" alt="Redis" />
+</p>
+
+**Developer tools**
+
+<p>
+  <img src="https://img.shields.io/badge/Postman-172433?style=flat-square&amp;logo=postman&amp;logoColor=C9A66B" alt="Postman" />
+</p>
 
 ### GitHub activity
 

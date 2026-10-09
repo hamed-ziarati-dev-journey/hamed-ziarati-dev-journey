@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1550" height="194" viewBox="0 0 1550 194"><defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#071522"/><stop offset="1" stop-color="#0c2230"/></linearGradient></defs><rect width="1550" height="194" rx="20" fill="url(#bg)"/>
+<path d="M50 37 H412 M1138 37 H1500" stroke="#ac814e" opacity=".6"/>
+<path d="M50 160 H412 M1138 160 H1500" stroke="#ac814e" opacity=".6"/>
+<path d="M772 15 l9 9 -9 9 -9 -9Z" fill="#b89257"/><text x="385" y="110" fill="#f8f4ec" font-family="Georgia, serif" font-size="61" font-weight="700" text-anchor="middle">Hi, I&#x27;m</text><text x="1000" y="110" fill="#e7b96f" font-family="Georgia, serif" font-size="72" font-weight="700" text-anchor="middle">Hamed Ziarati</text><text x="775" y="164" fill="#bdc6ca" font-family="DejaVu Sans, sans-serif" font-size="24" font-weight="400" text-anchor="middle">Computer Engineer  •  Software Engineering</text></svg>
